@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ag",
+    "name": "成都AG超玩会",
+    "color": "#e60012",
+    "players": [
+      { "name": "轩染", "position": "对抗路" },
+      { "name": "钟意", "position": "打野" },
+      { "name": "长生", "position": "中路" },
+      { "name": "小麦", "position": "发育路" },
+      { "name": "大帅", "position": "游走" }
+    ]
+  },
+  {
+    "id": "wolf",
+    "name": "重庆狼队",
+    "color": "#ffd700",
+    "players": [
+      { "name": "清清", "position": "对抗路" },
+      { "name": "皖皖", "position": "打野" },
+      { "name": "紫幻", "position": "中路" },
+      { "name": "道崽", "position": "发育路" },
+      { "name": "信", "position": "游走" }
+    ]
+  },
+  {
+    "id": "wb",
+    "name": "北京WB",
+    "color": "#ff0000",
+    "players": [
+      { "name": "樱花", "position": "对抗路" },
+      { "name": "安凉", "position": "打野" },
+      { "name": "果冻", "position": "中路" },
+      { "name": "昭珏", "position": "发育路" },
+      { "name": "一笙", "position": "游走" }
+    ]
+  },
+  {
+    "id": "jdg",
+    "name": "北京JDG",
+    "color": "#c8102e",
+    "players": [
+      { "name": "光明", "position": "对抗路" },
+      { "name": "无双", "position": "打野" },
+      { "name": "清融", "position": "中路" },
+      { "name": "小寒", "position": "发育路" },
+      { "name": "无畏", "position": "游走" }
+    ]
+  },
+  {
+    "id": "dyg",
+    "name": "深圳DYG",
+    "color": "#ff9800",
+    "players": [
+      { "name": "小乐", "position": "对抗路" },
+      { "name": "方羽", "position": "打野" },
+      { "name": "向鱼", "position": "中路" },
+      { "name": "钎城", "position": "发育路" },
+      { "name": "落空", "position": "游走" }
+    ]
+  },
+  {
+    "id": "lgd",
+    "name": "杭州LGD.NBW",
+    "color": "#2196f3",
+    "players": [
+      { "name": "小落", "position": "对抗路" },
+      { "name": "米苏", "position": "打野" },
+      { "name": "九尾", "position": "中路" },
+      { "name": "星尘", "position": "发育路" },
+      { "name": "小崽", "position": "游走" }
+    ]
+  },
+  {
+    "id": "ttg",
+    "name": "广州TTG",
+    "color": "#00bcd4",
+    "players": [
+      { "name": "小泽", "position": "对抗路" },
+      { "name": "小胖", "position": "打野" },
+      { "name": "鹤辞", "position": "中路" },
+      { "name": "小雪", "position": "发育路" },
+      { "name": "涛", "position": "游走" }
+    ]
+  },
+  {
+    "id": "ksg",
+    "name": "苏州KSG",
+    "color": "#4caf50",
+    "players": [
+      { "name": "无言", "position": "对抗路" },
+      { "name": "句号", "position": "打野" },
+      { "name": "流浪", "position": "中路" },
+      { "name": "小屿", "position": "发育路" },
+      { "name": "晚星", "position": "游走" }
+    ]
+  },
+  {
+    "id": "drg",
+    "name": "佛山DRG",
+    "color": "#ff5722",
+    "players": [
+      { "name": "花缘", "position": "对抗路" },
+      { "name": "小小阳", "position": "打野" },
+      { "name": "早点", "position": "中路" },
+      { "name": "梦岚", "position": "发育路" },
+      { "name": "子阳", "position": "游走" }
+    ]
+  },
+  {
+    "id": "estar",
+    "name": "武汉eStarPro",
+    "color": "#0066cc",
+    "players": [
+      { "name": "海棠", "position": "对抗路" },
+      { "name": "小楼", "position": "打野" },
+      { "name": "Ming", "position": "中路" },
+      { "name": "鸣鸣", "position": "发育路" },
+      { "name": "小A", "position": "游走" }
+    ]
+  },
+  {
+    "id": "rw",
+    "name": "济南RW侠",
+    "color": "#f44336",
+    "players": [
+      { "name": "归期", "position": "对抗路" },
+      { "name": "今屿", "position": "打野" },
+      { "name": "挽墨", "position": "中路" },
+      { "name": "小俞", "position": "发育路" },
+      { "name": "梦溪", "position": "游走" }
+    ]
+  },
+  {
+    "id": "rng",
+    "name": "上海RNG.M",
+    "color": "#ffc107",
+    "players": [
+      { "name": "小困", "position": "对抗路" },
+      { "name": "航航", "position": "打野" },
+      { "name": "庆安", "position": "中路" },
+      { "name": "润润", "position": "发育路" },
+      { "name": "安尧", "position": "游走" }
+    ]
+  },
+  {
+    "id": "edgm",
+    "name": "上海EDG.M",
+    "color": "#1a1a1a",
+    "players": [
+      { "name": "流星", "position": "对抗路" },
+      { "name": "夏凌", "position": "打野" },
+      { "name": "花卷", "position": "中路" },
+      { "name": "风箫", "position": "发育路" },
+      { "name": "绝心", "position": "游走" }
+    ]
+  },
+  {
+    "id": "tes",
+    "name": "长沙TES.A",
+    "color": "#e91e63",
+    "players": [
+      { "name": "无幻", "position": "对抗路" },
+      { "name": "书源", "position": "打野" },
+      { "name": "小七", "position": "中路" },
+      { "name": "蓝桉", "position": "发育路" },
+      { "name": "玖欣", "position": "游走" }
+    ]
+  },
+  {
+    "id": "hero",
+    "name": "南通Hero久竞",
+    "color": "#8b00ff",
+    "players": [
+      { "name": "坦然", "position": "对抗路" },
+      { "name": "落尘", "position": "打野" },
+      { "name": "清弦", "position": "中路" },
+      { "name": "妖刀", "position": "发育路" },
+      { "name": "紫渊", "position": "游走" }
+    ]
+  },
+  {
+    "id": "we",
+    "name": "西安WE",
+    "color": "#607d8b",
+    "players": [
+      { "name": "小度", "position": "对抗路" },
+      { "name": "景云", "position": "打野" },
+      { "name": "开心", "position": "中路" },
+      { "name": "绝意", "position": "发育路" },
+      { "name": "九幽", "position": "游走" }
+    ]
+  }
+]
